@@ -87,6 +87,17 @@ If you don't have access to these resources, you can back up on hard drives. Hav
 
 You can also use resources like [Amazon S3](https://aws.amazon.com/s3/),  [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/storage/blobs/),  [Google Cloud](https://cloud.google.com/storage/) or others for cloud storage. The [open science framework](https://osf.io) is a free option for storing files up to 5 GB. See more in the [cloud lesson](http://www.datacarpentry.org/cloud-genomics/05-which-cloud/).
 
+#### UIUC data storage solutions
+
+Biocluster storage
+- Short-term: https://help.igb.illinois.edu/Biocluster2#Storage
+- Long-term: https://help.igb.illinois.edu/Active_Archive
+
+XSEDE storage:  
+- https://portal.xsede.org/storage
+
+UIUC AWS storage: 
+- https://techservices.illinois.edu/services/amazon-web-services/details
 
 
 # Summary
