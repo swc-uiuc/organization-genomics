@@ -54,7 +54,7 @@ day, or if you do, you're aware of it and give them names like A and B.
 {: .callout}
 
 Once you start running computational analyses on your sequencing data, it's just as important to keep a good computational lab notebook. Aside from usually being electronic, these are very similar to wet lab notebooks in that it's best to be as detailed as possible. See Schnell's "Ten Simple Rules for a Computational Biologist’s Laboratory Notebook" for more details on how to keep a useful 
-[computational notebook]https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385
+[computational notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
 .
 
 ## Data about the experiment
