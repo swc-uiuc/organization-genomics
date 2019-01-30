@@ -96,7 +96,7 @@ analysis you want to do, you may even separate the genus and species names into 
 >
 >
 > > ## Solution
-> > A full set of types of issues with spreadsheet data is at the [Data Carpentry Ecology spreadsheet lesson](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/). Not all are present in this example. Discuss with the group what they found. The main problem is there are characters in the ids that aren't allowed, e.g. ",", ".", "-", "&" or spaces. Here is a "clean" version of the same spreadsheet:
+> > A full set of types of issues with spreadsheet data is at the [Data Carpentry Ecology spreadsheet lesson](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/). Not all are present in this example. Discuss with the group what they found. The main problem is there are characters in the ids that aren't allowed, e.g. ",", ".", "&" or spaces. Here is a "clean" version of the same spreadsheet:
 > >
 > >[Cleaned spreadsheet](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/files/SampleSheet_Example_clean.csv?raw=true)
 > >
