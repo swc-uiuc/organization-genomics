@@ -37,7 +37,7 @@ All of the data and information just discussed can be considered metadata, data 
 
 ## Notes
 
-Notes about your experiment, including how you prepared your samples from sequencing, should be in your lab notebook, whether that's a physical lab notebook or electronic lab notebook. For guidelines on good lab notebooks, see the Howard Hughes Medical Institute "Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty" section on
+Notes about your experiment, including how you prepared your samples from sequencing, should be in your lab notebook, whether that's a physical lab notebook or electronic lab notebook. For guidelines on good wet lab notebooks, see the Howard Hughes Medical Institute "Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty" section on
 [Data Management and Laboratory Notebooks](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch8.pdf).
 
 
@@ -52,6 +52,10 @@ day, or if you do, you're aware of it and give them names like A and B.
 > They are names for that data that only exist for that data. Having these
 > unique names makes them much easier to track later.
 {: .callout}
+
+Once you start running computational analyses on your sequencing data, it's just as important to keep a good computational lab notebook. Aside from usually being electronic, these are very similar to wet lab notebooks in that it's best to be as detailed as possible. See Schnell's "Ten Simple Rules for a Computational Biologist’s Laboratory Notebook" for more details on how to keep a useful 
+[computational notebook]https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385
+.
 
 ## Data about the experiment
 
